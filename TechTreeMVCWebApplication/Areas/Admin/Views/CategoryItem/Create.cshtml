@@ -1,0 +1,56 @@
+﻿@model TechTreeMVCWebApplication.Entities.CategoryItem
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>CategoryItem</h4>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <input type="hidden" asp-for="CategoryId" />
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <textarea asp-for="Description" rows="2" class="form-control"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MediaTypeId" class="control-label"></label>
+                <select asp-for="MediaTypeId" class="form-control" asp-items="@Model.MediaTypes">
+                    <option value="">--Please Select a Media Type--</option>
+                </select>
+                <span asp-validation-for="MediaTypeId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateTimeItemReleased" class="control-label"></label>
+                <input type="text" id="DateTimeItemReleased" name="DateTimeItemReleased" value="@Model.DateTimeItemReleased.ToString("yyyy-MM-dd")" class="datepicker form-control" />
+                <span asp-validation-for="DateTimeItemReleased" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" asp-route-categoryId="@Model.CategoryId">Back to List</a>
+</div>
+
+@section Scripts {
+
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        await Html.RenderPartialAsync("_DateScriptsPartial");
+    }
+}

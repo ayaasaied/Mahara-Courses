@@ -1,0 +1,639 @@
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\appsettings.json
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.StaticWebAssets.xml
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.exe
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.deps.json
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.runtimeconfig.json
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.runtimeconfig.dev.json
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ref\TechTreeMVCWebApplication.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.pdb
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.Views.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.Views.pdb
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.AssemblyInfo.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.RazorAssemblyInfo.cache
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.RazorAssemblyInfo.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\scopedcss\bundle\TechTreeMVCWebApplication.styles.css
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\staticwebassets\TechTreeMVCWebApplication.StaticWebAssets.Manifest.cache
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\staticwebassets\TechTreeMVCWebApplication.StaticWebAssets.xml
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.TagHelpers.input.cache
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.TagHelpers.output.cache
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.RazorCoreGenerate.cache
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoryItem\Create.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoryItem\Delete.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoryItem\Details.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoryItem\Edit.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoryItem\Index.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Delete.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Details.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Content\Create.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Content\Edit.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaType\Create.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaType\Delete.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaType\Details.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaType\Edit.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaType\Index.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_CreateButtonPartial.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_RUDButtonsPartial.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_UsersListViewPartial.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\UsersToCategory\Index.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\CategoriesToUser\Index.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Content\Index.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_AdminMenuPartial.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_AuthScriptsPartial.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_DateScriptsPartial.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_DefaultHomePageContentPartial.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_DisplayCardRowPartial.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_UserLoginPartial.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_UserRegistrationPartial.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.Views.pdb
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.csproj.CopyComplete
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\ref\TechTreeMVCWebApplication.dll
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.pdb
+C:\Users\pc\Downloads\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.genruntimeconfig.cache
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\appsettings.json
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.StaticWebAssets.xml
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.exe
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.deps.json
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.runtimeconfig.json
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.runtimeconfig.dev.json
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ref\TechTreeMVCWebApplication.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.pdb
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.Views.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.Views.pdb
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.csproj.AssemblyReference.cache
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.AssemblyInfoInputs.cache
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.AssemblyInfo.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.RazorAssemblyInfo.cache
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.RazorAssemblyInfo.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\scopedcss\bundle\TechTreeMVCWebApplication.styles.css
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\staticwebassets\TechTreeMVCWebApplication.StaticWebAssets.Manifest.cache
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\staticwebassets\TechTreeMVCWebApplication.StaticWebAssets.xml
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.TagHelpers.input.cache
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.TagHelpers.output.cache
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.RazorCoreGenerate.cache
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoryItem\Create.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoryItem\Delete.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoryItem\Details.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoryItem\Edit.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoryItem\Index.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Delete.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Details.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Content\Create.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Content\Edit.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaType\Create.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaType\Delete.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaType\Details.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaType\Edit.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaType\Index.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_CreateButtonPartial.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_RUDButtonsPartial.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_UsersListViewPartial.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\UsersToCategory\Index.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\CategoriesToUser\Index.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Content\Index.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_AdminMenuPartial.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_AuthScriptsPartial.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_DateScriptsPartial.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_DefaultHomePageContentPartial.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_DisplayCardRowPartial.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_UserLoginPartial.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_UserRegistrationPartial.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.Views.pdb
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.csproj.CopyComplete
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\ref\TechTreeMVCWebApplication.dll
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.pdb
+C:\Users\Maged\Downloads\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.genruntimeconfig.cache
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\appsettings.Development.json
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\appsettings.json
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.StaticWebAssets.xml
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.exe
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.deps.json
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.runtimeconfig.json
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.runtimeconfig.dev.json
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ref\TechTreeMVCWebApplication.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.pdb
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.Views.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\TechTreeMVCWebApplication.Views.pdb
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Humanizer.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.csproj.AssemblyReference.cache
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.AssemblyInfoInputs.cache
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.AssemblyInfo.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.csproj.CoreCompileInputs.cache
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.RazorAssemblyInfo.cache
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.RazorAssemblyInfo.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\scopedcss\bundle\TechTreeMVCWebApplication.styles.css
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\staticwebassets\TechTreeMVCWebApplication.StaticWebAssets.Manifest.cache
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\staticwebassets\TechTreeMVCWebApplication.StaticWebAssets.xml
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.TagHelpers.input.cache
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.TagHelpers.output.cache
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.RazorCoreGenerate.cache
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoryItem\Create.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoryItem\Delete.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoryItem\Details.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoryItem\Edit.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoryItem\Index.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Delete.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Details.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Content\Create.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Content\Edit.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaType\Create.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaType\Delete.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaType\Details.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaType\Edit.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaType\Index.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_CreateButtonPartial.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_RUDButtonsPartial.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_UsersListViewPartial.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\UsersToCategory\Index.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\CategoriesToUser\Index.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Content\Index.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_AdminMenuPartial.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_AuthScriptsPartial.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_DateScriptsPartial.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_DefaultHomePageContentPartial.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_DisplayCardRowPartial.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_UserLoginPartial.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_UserRegistrationPartial.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.RazorTargetAssemblyInfo.cache
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.RazorTargetAssemblyInfo.cs
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.Views.pdb
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.csproj.CopyComplete
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\ref\TechTreeMVCWebApplication.dll
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.pdb
+D:\ITI-3 Months\13-ASP.Net Core MVC\Mouris\TechTreeMVCWebApplication-main (1)\TechTreeMVCWebApplication-main\TechTreeMVCWebApplication\obj\Debug\net5.0\TechTreeMVCWebApplication.genruntimeconfig.cache

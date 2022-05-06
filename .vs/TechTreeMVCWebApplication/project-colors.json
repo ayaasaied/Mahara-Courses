@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5b60ee0c-7802-4f71-bc49-f2a72f9daa01": {
+      "ProjectGuid": "5b60ee0c-7802-4f71-bc49-f2a72f9daa01",
+      "DisplayName": "TechTreeMVCWebApplication",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

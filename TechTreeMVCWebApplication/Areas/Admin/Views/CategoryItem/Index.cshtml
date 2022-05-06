@@ -1,0 +1,55 @@
+﻿@model IEnumerable<TechTreeMVCWebApplication.Entities.CategoryItem>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>@ViewData["catName"]</h1>
+
+<p>
+    <partial name="_CreateButtonPartial" model="@ViewBag.CategoryId" />
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateTimeItemReleased)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateTimeItemReleased)
+            </td>
+            <td>
+                <partial name="_RUDButtonsPartial" model="@item.Id">
+
+                    @if (item.ContentId == 0)
+                    {
+                        <a asp-controller="Content" asp-action="Create" asp-route-categoryItemId="@item.Id" asp-route-categoryId="@item.CategoryId">Add Content</a>
+                    }
+                    else
+                    {
+                        <a asp-controller="Content" asp-action="Edit" asp-route-categoryItemId="@item.Id" asp-route-categoryId="@item.CategoryId">Edit Content</a>
+                    }
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TechTreeMVCWebApplication
+build_property.ProjectDir = D:\ITI-3 Months\13-ASP.Net Core MVC\MVC Projects 4\ASP.Net Core MVC Project -Mahara\mahara\TechTreeMVCWebApplication\

@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Category>
+<!--Hero Section-->
+<div class="hero section">
+    <img class="img-fluid" src="~/Images/New-Slider.jpg">
+    <div class="hero-heading">
+        <h2 class="hero-heading-text">Join Us Now<br></br> <strong>Mahara Tech</strong></h2>
+        <a id="HeroRegisterButton" class="btn btn-outline-info btn-lg text-light hero-register-button" data-toggle="modal" data-target="#UserRegistrationModal">Register</a>
+    </div>
+</div>
+
+<hr class="section-divider" />
+
+<!--Courses Section-->
+<div id="Courses" class="courses section">
+    <h3 class="section-header"><i class="fas fa-laptop-code mr-2 text-info"></i>Courses</h3>
+    @{
+        const int itemsPerRow = 4;
+
+        var count = Model.Count() / itemsPerRow;
+        var catList = new List<Category>();
+
+    }
+    @for (int i = 0; i <= count; i++)
+    {
+        catList = Model.Skip(i * itemsPerRow).Take(itemsPerRow).ToList();
+
+        <partial name="_DisplayCardRowPartial" model="catList"/>
+
+    } 
+</div>
+
+
+
+
